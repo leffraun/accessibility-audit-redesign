@@ -28,6 +28,29 @@ accessibility, navigation, forms and feedback. </p>
 
 <p>The redesigned interface will address the major accessibility issues identified during the audit and make key tasks easier to complete using keyboard navigation and assistive technology.</p>
 
+## References
+
+```text
+WCAG
+│
+├── POUR
+│   ├── Perceivable
+│   ├── Operable
+│   ├── Understandable
+│   └── Robust
+│
+└── Important areas for my audit
+    ├── Keyboard
+    ├── Focus
+    ├── Contrast
+    ├── Forms
+    ├── Labels
+    ├── Headings
+    ├── Errors
+    └── Navigation
+
+```
+
 <!-- 
 the steps in hci 
 - - - -
