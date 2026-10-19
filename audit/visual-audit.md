@@ -47,3 +47,26 @@ These observations are based on an initial visual inspection. No contrast ratios
 - Investigate any colour-dependent information.
 - Record specific examples and screenshots where relevant.
 - Map verified findings to the appropriate WCAG criteria.
+## Additional Observations
+
+### 1. CTA Buttons
+
+**Observation:** CTA buttons use orange or blue backgrounds with white text.
+
+**Initial assessment:** The text appears readable during visual inspection. The contrast ratio has not yet been measured for both colour combinations.
+
+**Next step:** Measure the contrast of the white text against each background colour.
+
+### 2. Form Fields
+
+**Observation:** Most form fields appear to be prefilled or populated by default. The From and To fields are the main empty fields available for testing.
+
+**Initial assessment:** The form appeared to work normally during the inspection.
+
+**Next step:** Inspect the From and To fields for clear labels, visible instructions and understandable behaviour when left empty or given invalid input.
+
+### 3. Text Readability
+
+**Observation:** Text across the inspected interface appeared easy to read.
+
+**Limitation:** This is a subjective visual observation and does not replace a contrast-ratio measurement.
